@@ -1,0 +1,37 @@
+2019-08-24  20:07:10 Sat  urllib3.connectionpool DEBUG C:\Users\kangdong\Anaconda3\lib\site-packages\urllib3\connectionpool.py Starting new HTTP connection (1): www.jupindai.com:80 
+2019-08-24  20:07:10 Sat  urllib3.connectionpool DEBUG C:\Users\kangdong\Anaconda3\lib\site-packages\urllib3\connectionpool.py http://www.jupindai.com:80 "GET /book/87.html HTTP/1.1" 301 184 
+2019-08-24  20:07:10 Sat  urllib3.connectionpool DEBUG C:\Users\kangdong\Anaconda3\lib\site-packages\urllib3\connectionpool.py Starting new HTTPS connection (1): www.jupindai.com:443 
+2019-08-24  20:07:10 Sat  urllib3.connectionpool DEBUG C:\Users\kangdong\Anaconda3\lib\site-packages\urllib3\connectionpool.py https://www.jupindai.com:443 "GET /book/87.html HTTP/1.1" 200 None 
+2019-08-24  20:07:10 Sat  urllib3.connectionpool DEBUG C:\Users\kangdong\Anaconda3\lib\site-packages\urllib3\connectionpool.py Starting new HTTP connection (1): www.jupindai.com:80 
+2019-08-24  20:07:10 Sat  urllib3.connectionpool DEBUG C:\Users\kangdong\Anaconda3\lib\site-packages\urllib3\connectionpool.py http://www.jupindai.com:80 "GET /book/87/23974066.html HTTP/1.1" 301 184 
+2019-08-24  20:07:10 Sat  urllib3.connectionpool DEBUG C:\Users\kangdong\Anaconda3\lib\site-packages\urllib3\connectionpool.py Starting new HTTPS connection (1): www.jupindai.com:443 
+2019-08-24  20:07:11 Sat  urllib3.connectionpool DEBUG C:\Users\kangdong\Anaconda3\lib\site-packages\urllib3\connectionpool.py https://www.jupindai.com:443 "GET /book/87/23974066.html HTTP/1.1" 200 None 
+2019-08-24  20:07:12 Sat  root DEBUG E:/PYTHON学习/爬虫/day2/自动小说.py  第1294章 大战刑开 发送成功！！！ 
+2019-08-24  20:07:12 Sat  urllib3.connectionpool DEBUG C:\Users\kangdong\Anaconda3\lib\site-packages\urllib3\connectionpool.py Starting new HTTP connection (1): www.jupindai.com:80 
+2019-08-24  20:07:12 Sat  urllib3.connectionpool DEBUG C:\Users\kangdong\Anaconda3\lib\site-packages\urllib3\connectionpool.py http://www.jupindai.com:80 "GET /book/87.html HTTP/1.1" 301 184 
+2019-08-24  20:07:12 Sat  urllib3.connectionpool DEBUG C:\Users\kangdong\Anaconda3\lib\site-packages\urllib3\connectionpool.py Starting new HTTPS connection (1): www.jupindai.com:443 
+2019-08-24  20:07:13 Sat  urllib3.connectionpool DEBUG C:\Users\kangdong\Anaconda3\lib\site-packages\urllib3\connectionpool.py https://www.jupindai.com:443 "GET /book/87.html HTTP/1.1" 200 None 
+2019-08-24  20:07:13 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py ('第', 1295, '章还未更新！') 
+2019-08-24  20:12:17 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py ('第', 1295, '章还未更新！') 
+2019-08-24  20:12:28 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py ('第', 1295, '章还未更新！') 
+2019-08-24  20:12:38 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py ('第', 1295, '章还未更新！') 
+2019-08-24  20:12:48 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py ('第', 1295, '章还未更新！') 
+2019-08-24  20:12:58 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py ('第', 1295, '章还未更新！') 
+2019-08-24  20:13:08 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py ('第', 1295, '章还未更新！') 
+2019-08-24  20:13:19 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py ('第', 1295, '章还未更新！') 
+2019-08-24  20:13:29 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py ('第', 1295, '章还未更新！') 
+2019-08-24  20:13:39 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py ('第', 1295, '章还未更新！') 
+2019-08-24  20:13:49 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py ('第', 1295, '章还未更新！') 
+2019-08-24  20:13:59 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py ('第', 1295, '章还未更新！') 
+2019-08-24  20:14:09 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py ('第', 1295, '章还未更新！') 
+2019-08-24  20:14:19 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py ('第', 1295, '章还未更新！') 
+2019-08-24  20:14:29 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py ('第', 1295, '章还未更新！') 
+2019-08-24  20:14:56 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py 第1295章还未更新！ 
+2019-08-24  20:15:06 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py 第1295章还未更新！ 
+2019-08-24  20:15:16 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py 第1295章还未更新！ 
+2019-08-24  20:15:26 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py 第1295章还未更新！ 
+2019-08-24  20:15:37 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py 第1295章还未更新！ 
+2019-08-24  20:15:47 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py 第1295章还未更新！ 
+2019-08-24  20:15:57 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py 第1295章还未更新！ 
+2019-08-24  20:16:07 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py 第1295章还未更新！ 
+2019-08-24  20:16:18 Sat  root WARNING E:/PYTHON学习/爬虫/day2/自动小说.py 第1295章还未更新！ 
